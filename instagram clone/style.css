@@ -224,3 +224,7 @@ body{
 				max-width: 400px;
 				margin: auto;
 }
+.post img{
+width:100%;
+	height:142%;
+}
